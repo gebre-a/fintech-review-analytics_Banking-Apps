@@ -1,0 +1,55 @@
+==============================================================
+OMEGA CONSULTANCY — INSIGHT REPORT
+Customer Experience Analytics: Ethiopian Banking Apps
+==============================================================
+
+── CBE ──────────────────────────────────────────
+  Reviews analysed : 500
+  Average rating   : 3.96 / 5
+  Positive reviews : 61.8%
+  Negative reviews : 37.2%
+
+  Top pain point   : Other  (111 reviews)
+  Example review   : "M doubloons sffggfdeefg Dffffffdq2sffffff..."
+
+  Top driver       : Other  (282 reviews)
+
+  Recommendations:
+    1. Prioritise most-complained theme in next sprint.
+    2. Add in-app feedback form to capture granular issues.
+
+── BOA ──────────────────────────────────────────
+  Reviews analysed : 500
+  Average rating   : 3.48 / 5
+  Positive reviews : 49.4%
+  Negative reviews : 49.2%
+
+  Top pain point   : Other  (171 reviews)
+  Example review   : "Machin tecnoloj..."
+
+  Top driver       : Other  (234 reviews)
+
+  Recommendations:
+    1. Prioritise most-complained theme in next sprint.
+    2. Add in-app feedback form to capture granular issues.
+
+── Dashen ──────────────────────────────────────────
+  Reviews analysed : 500
+  Average rating   : 3.92 / 5
+  Positive reviews : 63.4%
+  Negative reviews : 36.2%
+
+  Top pain point   : Other  (116 reviews)
+  Example review   : "👍🏿good..."
+
+  Top driver       : Other  (262 reviews)
+
+  Recommendations:
+    1. Prioritise most-complained theme in next sprint.
+    2. Add in-app feedback form to capture granular issues.
+
+==============================================================
+Ethical note: Review data may skew negative (unhappy users
+review more often). English-only scraping misses Amharic
+reviews, which likely represent the majority user base.
+==============================================================
